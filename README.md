@@ -1,4 +1,4 @@
-hello, World
+#hello, World
 function greeting(name = null) {
 	if(name) {
 		return "Hello " + name
